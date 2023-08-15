@@ -420,7 +420,7 @@ header{
         margin-right: 10px;
     }
     header{
-        background-image: url('/images/bg-header-mobile.png' );
+        background-image: url('../images/bg-header-mobile.png' );
         height: 363px;
         
     }
